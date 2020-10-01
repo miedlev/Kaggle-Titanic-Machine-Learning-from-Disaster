@@ -2,8 +2,11 @@
 
 This is the legendary Titanic ML competition / the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
+#### 1. My Conclusion Analysis Report - Jupyter Notebook
+* [TitanicFinal Analysis](https://github.com/miedlev/Kaggle-Titanic-Machine-Learning-from-Disaster/blob/master/TitanicFinal%20part.ipynb)
 
-#### 1. Introduction & Process :
+
+#### 2. Process Introduction :
 It is a competition that can be said to be Kaggle's introductory period and conducts a Python-based analysis. My focusins was on 
 1. dummy variable generation
 2. feature engineering
@@ -21,11 +24,8 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 * [Matplotlib](http://matplotlib.org/)
 * [StatsModels](http://statsmodels.sourceforge.net/)
 
-#### 3. Conclusion Analysis Report - Jupyter Notebook
-* [TitanicFinal](https://github.com/miedlev/Kaggle-Titanic-Machine-Learning-from-Disaster/blob/master/TitanicFinal%20part.ipynb)
 
-
-#### Titanic Machine Learning from Disaster
+#### 4. Titanic Machine Learning from Disaster
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
