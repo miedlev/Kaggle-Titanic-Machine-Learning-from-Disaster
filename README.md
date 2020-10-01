@@ -32,4 +32,3 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 * [StatsModels](http://statsmodels.sourceforge.net/)
 
 
-![title](Desktop/스크린샷%202020-10-01%20오후%209.37.39.png)
