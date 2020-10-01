@@ -3,7 +3,7 @@
 This is the legendary Titanic ML competition / the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
 
-#### Introduction
+#### 1. Introduction & Process :
 It is a competition that can be said to be Kaggle's introductory period and conducts a Python-based analysis. My focusins was on 
 1. dummy variable generation
 2. feature engineering
@@ -11,11 +11,7 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 4. continuous variables range
 5. tree-based model
 
--> check 
-* [TitanicFinal](https://github.com/miedlev/Kaggle-Titanic-Machine-Learning-from-Disaster/blob/master/TitanicFinal%20part.ipynb)
-
-
-#### Dependencies:
+#### 2. Dependencies & Tech :
 * [NumPy](http://www.numpy.org/)
 * [IPython](http://ipython.org/)
 * [Pandas](http://pandas.pydata.org/)
@@ -24,6 +20,9 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 * [Seaborn](https://seaborn.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
 * [StatsModels](http://statsmodels.sourceforge.net/)
+
+#### 3. Conclusion Analysis Report - Jupyter Notebook
+* [TitanicFinal](https://github.com/miedlev/Kaggle-Titanic-Machine-Learning-from-Disaster/blob/master/TitanicFinal%20part.ipynb)
 
 
 #### Titanic Machine Learning from Disaster
