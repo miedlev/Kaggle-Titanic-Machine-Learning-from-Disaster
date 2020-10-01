@@ -9,7 +9,8 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 4. continuous variables range
 5. tree-based model
 
--> check TitanicFinal part.ipynb
+-> check 
+* [TitanicFinal](https://github.com/miedlev/Kaggle-Titanic-Machine-Learning-from-Disaster/blob/master/TitanicFinal%20part.ipynb)
 
 
 #### Dependencies:
