@@ -7,8 +7,8 @@ This is the legendary Titanic ML competition / the best, first challenge for you
 
 
 #### 2. About Data :
-The training set should be used to build machine learning models. 
-The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes.
+* the The training set should be used to build machine learning models. 
+* The test set should be used to see how well your model performs on unseen data. For the test set, we do not provide the ground truth for each passenger. It is your job to predict these outcomes.
 
 #### 3. Process Introduction :
 It is a competition that can be said to be Kaggle's introductory period and conducts a Python-based analysis. My focusins was on 
