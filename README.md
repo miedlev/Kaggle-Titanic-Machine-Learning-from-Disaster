@@ -19,7 +19,8 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 4. continuous variables range
 5. tree-based model
 
--> check 
+-> check TitanicFinal part.ipynb
+
 
 #### Dependencies:
 * [NumPy](http://www.numpy.org/)
@@ -32,3 +33,4 @@ It is a competition that can be said to be Kaggle's introductory period and cond
 * [StatsModels](http://statsmodels.sourceforge.net/)
 
 
+* [NumPy](Desktop/스크린샷%202020-10-01%20오후%209.37.39.png)
